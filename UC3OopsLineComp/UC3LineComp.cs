@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace OopsLineComp
 {
 
-    public class UC2OopsLineComp
+    public class UC3OopsLineComp
     {
-       
+
 
 
         public double Length()
