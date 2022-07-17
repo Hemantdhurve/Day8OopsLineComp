@@ -1,0 +1,15 @@
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\bin\Debug\net6.0\OopsLineComp.exe
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\bin\Debug\net6.0\OopsLineComp.deps.json
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\bin\Debug\net6.0\OopsLineComp.runtimeconfig.json
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\bin\Debug\net6.0\OopsLineComp.dll
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\bin\Debug\net6.0\OopsLineComp.pdb
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\obj\Debug\net6.0\OopsLineComp.csproj.AssemblyReference.cache
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\obj\Debug\net6.0\OopsLineComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\obj\Debug\net6.0\OopsLineComp.AssemblyInfoInputs.cache
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\obj\Debug\net6.0\OopsLineComp.AssemblyInfo.cs
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\obj\Debug\net6.0\OopsLineComp.csproj.CoreCompileInputs.cache
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\obj\Debug\net6.0\OopsLineComp.dll
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\obj\Debug\net6.0\refint\OopsLineComp.dll
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\obj\Debug\net6.0\OopsLineComp.pdb
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\obj\Debug\net6.0\OopsLineComp.genruntimeconfig.cache
+C:\Users\Hemant\source\repos\OopsLineComp\OopsLineComp\obj\Debug\net6.0\ref\OopsLineComp.dll
