@@ -1,9 +1,9 @@
 ﻿using OopsLineComp;
 //UC1
-//UC1OopsLineComp Length = new UC1OopsLineComp();
+UC1OopsLineComp Length = new UC1OopsLineComp();
 
-//double length = Length.Length();
-//Console.WriteLine("Length of the line is :" + length);
+double length = Length.Length();
+Console.WriteLine("Length of the line is :" + length);
 //UC2
 
 /*UC2OopsLineComp L1 = new UC2OopsLineComp();
@@ -34,7 +34,7 @@ else
 */
 
 //UC3
-UC2OopsLineComp L1 = new UC2OopsLineComp();
+/*UC2OopsLineComp L1 = new UC2OopsLineComp();
 UC2OopsLineComp L2 = new UC2OopsLineComp();
 
 // here print 1st L1 values
@@ -64,5 +64,5 @@ else
 {
     Console.WriteLine("Length L1 is less than L2");
 }
-
+*/
 
